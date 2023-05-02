@@ -45,7 +45,7 @@ Kotogram is a social network for cats where they can share their photos and foll
 
 ## **Technical details**
 
-To run the application, you need to run the backend server first. The instructions can be found in the **[backend repository](https://github.com/shtag/kotogram-server)**. Once the server is up and running, you can start the front-end part by opening the **`index.html`** file in the browser or by deploying it to a web server.
+To run the application, you need to run the backend server first. The instructions can be found in the **[backend repository](https://github.com/astap13/kotogram-server)**. Once the server is up and running, you can start the front-end part by opening the **`index.html`** file in the browser or by deploying it to a web server.
 
 ## **Conclusion**
 
