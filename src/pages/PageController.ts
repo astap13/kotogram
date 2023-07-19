@@ -19,9 +19,6 @@ class PageController {
             <main class="container"></main>
             <footer class="container">
             <a href="https://github.com/astap13">astap13</a>
-            <a href="https://rs.school/js/">
-                <img src="https://rs.school/images/rs_school_js.svg" height="30"> 
-            </a>
             </footer>
             <div class="global_loader"></div>
         `;
